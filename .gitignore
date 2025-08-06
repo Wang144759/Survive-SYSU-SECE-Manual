@@ -11,3 +11,4 @@ src/.vuepress/dist/
 # ide work dir
 .idea/
 .vscode/
+.vercel

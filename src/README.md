@@ -3,7 +3,7 @@ home: true
 icon: home
 title: 首页
 heroImage: /logo.png  # 若你有项目 logo，可以放在 .vuepress/public/logo.png
-heroText: 中山大学电子学院生存手册
+heroText: 中山大学电通院生存手册
 tagline: 工程实践经验与生活指南的全记录，陪你轻松度过 SECE 学习旅程
 actions:
   - text: 快速开始 💡
@@ -16,7 +16,7 @@ actions:
 features:
   - title: 学业攻略
     icon: study
-    details: 包含电子学院课程评测、选课建议、学习资料整理，助你合理安排学习计划。
+    details: 包含电通学院课程评测、选课建议、学习资料整理，助你合理安排学习计划。
 
   - title: 实用工具
     icon: tool

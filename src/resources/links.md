@@ -35,6 +35,7 @@
 - [LeetCode 学习计划](https://leetcode.cn/studyplan/top-100-liked/)  
 - [Runoob C++ 教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)  
 - [Bilibili 视频](https://www.bilibili.com/video/BV13U4y1p7kB/?spm_id_from=333.337.search-card.all.click&vd_source=18c4a8ae764173814be996bf31c71324)  
+- [Gemini3](https://aistudio.google.com/prompts/new_chat)
 
 在现在这个版本，AI 已经超越了传统的互联网搜索引擎，善用 GPT、Claude、DeepSeek、元宝、豆包、通义、Kimi 才能跟得上节奏。
 

@@ -43,7 +43,7 @@ export const zhNavbar = navbar([
   {
     text: "资源汇总",
     icon: "toolbox", // FA图标: toolbox
-    link: "/resources/1.main.html", 
+    link: "/resources/README.md", 
   },
 
   // 5. 关于项目

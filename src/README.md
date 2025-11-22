@@ -7,11 +7,11 @@ heroText: 中山大学电通院生存手册
 tagline: 工程实践经验与生活指南的全记录，陪你轻松度过 SECE 学习旅程
 actions:
   - text: 快速开始 💡
-    link: /guide.html
+    link: /essential/base/0.main.html
     type: primary
 
   - text: 查看全部内容 📚
-    link: /content/index.html
+    link: /ready.html
 
 features:
   - title: 学业攻略

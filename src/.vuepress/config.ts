@@ -6,18 +6,29 @@ export default defineUserConfig({
   base: "/", 
   lang: "zh-CN",
   title: "中山大学本科生自救指南(电通版)",
-  description: "中山大学电子与通信工程学院（SECE）课程攻略、生存指南与资源汇总",
+  description: "中山大学电子与通信工程自救指南，包含课程笔记、项目经验、实用教程。",
 
-head: [
-  // 标准 favicon（搜索引擎 & 地址栏）
-  ["link", { rel: "icon", href: "/favicon.ico" }],
-  ["meta", { name: "keywords", content: "中山大学, SECE, 电通院, 课程攻略, 选课指南, 考研" }],
-],
-
+  head: [
+    ["link", { rel: "icon", href: "/favicon.ico" }],
+    [
+      "meta",
+      {
+        name: "keywords",
+        content: "中山大学, 自救指南, 电子与通信, EE , CS 学习笔记, 教程",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "author",
+        content: "Redem-cat",
+      },
+    ],
+  ],
 
   bundler: viteBundler(),
   
-  theme, // 引用 theme.ts
+  theme, 
 
   shouldPrefetch: false,
   pagePatterns: ["**/*.md", "!**/*.snippet.md", "!.vuepress", "!node_modules"],
